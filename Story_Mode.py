@@ -1,7 +1,3 @@
-# CMPU 2016 Object-Oriented Programming
-# TU857-2
-
-# D1 Coders
 
 # Description: An adventure game where players can choose to play either detective or murderer,
 # each with a unique storyline. Players interact
